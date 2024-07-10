@@ -6,11 +6,11 @@ Lettepa for [iTerm2]
 
 ## How these .itermcolors files are built
 
-Use [johanvx/genereate-itermcolors] with [lettepa-dark.template] as the input to
+Use [johanvx/generate-itermcolors] with [lettepa-dark.template] as the input to
 build [lettepa-dark.itermcolors], and [lettepa-light.template] to build
 [lettepa-light.itermcolors].
 
-[johanvx/genereate-itermcolors]: https://github.com/johanvx/genereate-itermcolors
+[johanvx/generate-itermcolors]: https://github.com/johanvx/generate-itermcolors
 [lettepa-dark.itermcolors]: lettepa-dark.itermcolors
 [lettepa-dark.template]: lettepa-dark.template
 [lettepa-light.itermcolors]: lettepa-light.itermcolors
