@@ -1,75 +1,75 @@
-Selected Text Color: #BDC0BA
-Selection Color: #0F2540
-Cursor Guide Color: #3A8FB7
-Cursor Text Color: #08192D
-Cursor Color: #BDC0BA
-Bold Color: #BDC0BA
-Link Color: #DB4D6D
-Foreground Color: #BDC0BA
-Background Color: #08192D
-Ansi 15 Color: #BDC0BA
-Ansi 14 Color: #7DB9DE
-Ansi 13 Color: #F596AA
-Ansi 12 Color: #2EA9DF
-Ansi 11 Color: #F7C242
-Ansi 10 Color: #66BAB7
-Ansi 9 Color: #DB4D6D
-Ansi 8 Color: #0F2540
-Ansi 7 Color: #91989F
-Ansi 6 Color: #3A8FB7
-Ansi 5 Color: #E03C8A
-Ansi 4 Color: #005CAF
-Ansi 3 Color: #96632E
-Ansi 2 Color: #268785
-Ansi 1 Color: #CB1B45
-Ansi 0 Color: #08192D
-Selected Text Color (Light): #0F2540
-Selection Color (Light): #BDC0BA
-Cursor Guide Color (Light): #7DB9DE
-Cursor Text Color (Light): #FCFAF2
-Cursor Color (Light): #0F2540
-Bold Color (Light): #0F2540
-Link Color (Light): #CB1B45
-Foreground Color (Light): #0F2540
-Background Color (Light): #FCFAF2
-Ansi 15 Color (Light): #0F2540
-Ansi 14 Color (Light): #3A8FB7
-Ansi 13 Color (Light): #E03C8A
-Ansi 12 Color (Light): #005CAF
-Ansi 11 Color (Light): #96632E
-Ansi 10 Color (Light): #268785
-Ansi 9 Color (Light): #CB1B45
-Ansi 8 Color (Light): #BDC0BA
-Ansi 7 Color (Light): #434343
-Ansi 6 Color (Light): #7DB9DE
-Ansi 5 Color (Light): #F596AA
-Ansi 4 Color (Light): #2EA9DF
-Ansi 3 Color (Light): #F7C242
-Ansi 2 Color (Light): #66BAB7
-Ansi 1 Color (Light): #DB4D6D
-Ansi 0 Color (Light): #FCFAF2
-Selected Text Color (Dark): #BDC0BA
-Selection Color (Dark): #0F2540
-Cursor Guide Color (Dark): #3A8FB7
-Cursor Text Color (Dark): #08192D
-Cursor Color (Dark): #BDC0BA
-Bold Color (Dark): #BDC0BA
-Link Color (Dark): #DB4D6D
-Foreground Color (Dark): #BDC0BA
-Background Color (Dark): #08192D
-Ansi 15 Color (Dark): #BDC0BA
-Ansi 14 Color (Dark): #7DB9DE
-Ansi 13 Color (Dark): #F596AA
-Ansi 12 Color (Dark): #2EA9DF
-Ansi 11 Color (Dark): #F7C242
-Ansi 10 Color (Dark): #66BAB7
-Ansi 9 Color (Dark): #DB4D6D
-Ansi 8 Color (Dark): #0F2540
-Ansi 7 Color (Dark): #91989F
-Ansi 6 Color (Dark): #3A8FB7
-Ansi 5 Color (Dark): #E03C8A
-Ansi 4 Color (Dark): #005CAF
-Ansi 3 Color (Dark): #96632E
-Ansi 2 Color (Dark): #268785
-Ansi 1 Color (Dark): #CB1B45
-Ansi 0 Color (Dark): #08192D
+Selected Text Color: #E4DFD7
+Selection Color: #21373D
+Cursor Guide Color: #1E9EB3
+Cursor Text Color: #101F30
+Cursor Color: #E4DFD7
+Bold Color: #E4DFD7
+Link Color: #F03752
+Foreground Color: #E4DFD7
+Background Color: #101F30
+Ansi 15 Color: #E4DFD7
+Ansi 14 Color: #51C4D3
+Ansi 13 Color: #EA7293
+Ansi 12 Color: #66A9C9
+Ansi 11 Color: #FBB957
+Ansi 10 Color: #57C3C2
+Ansi 9 Color: #F03752
+Ansi 8 Color: #21373D
+Ansi 7 Color: #C4CBCF
+Ansi 6 Color: #1E9EB3
+Ansi 5 Color: #EE2C79
+Ansi 4 Color: #1661AB
+Ansi 3 Color: #806332
+Ansi 2 Color: #12AA9C
+Ansi 1 Color: #C21F30
+Ansi 0 Color: #101F30
+Selected Text Color (Light): #21373D
+Selection Color (Light): #E4DFD7
+Cursor Guide Color (Light): #51C4D3
+Cursor Text Color (Light): #F8F4ED
+Cursor Color (Light): #21373D
+Bold Color (Light): #21373D
+Link Color (Light): #C21F30
+Foreground Color (Light): #21373D
+Background Color (Light): #F8F4ED
+Ansi 15 Color (Light): #21373D
+Ansi 14 Color (Light): #1E9EB3
+Ansi 13 Color (Light): #EE2C79
+Ansi 12 Color (Light): #1661AB
+Ansi 11 Color (Light): #806332
+Ansi 10 Color (Light): #12AA9C
+Ansi 9 Color (Light): #C21F30
+Ansi 8 Color (Light): #E4DFD7
+Ansi 7 Color (Light): #47484C
+Ansi 6 Color (Light): #51C4D3
+Ansi 5 Color (Light): #EA7293
+Ansi 4 Color (Light): #66A9C9
+Ansi 3 Color (Light): #FBB957
+Ansi 2 Color (Light): #57C3C2
+Ansi 1 Color (Light): #F03752
+Ansi 0 Color (Light): #F8F4ED
+Selected Text Color (Dark): #E4DFD7
+Selection Color (Dark): #21373D
+Cursor Guide Color (Dark): #1E9EB3
+Cursor Text Color (Dark): #101F30
+Cursor Color (Dark): #E4DFD7
+Bold Color (Dark): #E4DFD7
+Link Color (Dark): #F03752
+Foreground Color (Dark): #E4DFD7
+Background Color (Dark): #101F30
+Ansi 15 Color (Dark): #E4DFD7
+Ansi 14 Color (Dark): #51C4D3
+Ansi 13 Color (Dark): #EA7293
+Ansi 12 Color (Dark): #66A9C9
+Ansi 11 Color (Dark): #FBB957
+Ansi 10 Color (Dark): #57C3C2
+Ansi 9 Color (Dark): #F03752
+Ansi 8 Color (Dark): #21373D
+Ansi 7 Color (Dark): #C4CBCF
+Ansi 6 Color (Dark): #1E9EB3
+Ansi 5 Color (Dark): #EE2C79
+Ansi 4 Color (Dark): #1661AB
+Ansi 3 Color (Dark): #806332
+Ansi 2 Color (Dark): #12AA9C
+Ansi 1 Color (Dark): #C21F30
+Ansi 0 Color (Dark): #101F30
